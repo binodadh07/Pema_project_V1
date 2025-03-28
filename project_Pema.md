@@ -1,5 +1,36 @@
 # Project Baby Goods Exchange
 
+![Prototype](prototype.png)
+---
+## Table of Contents
+1. [General Project Information](#1-general-project-information)
+    - [Project Name](#project-name)
+    - [Project Statement](#project-statement)
+2. [Project Objectives](#2-project-objectives)
+3. [Project Team](#3-project-team)
+4. [Stakeholders](#4-stakeholders)
+5. [Project Scope](#5-project-scope)
+    - [In Scope](#in-scope)
+    - [Out of Scope](#out-of-scope)
+6. [Deliverables](#6-deliverables)
+7. [Project Milestones](#7-project-milestones)
+8. [Major Known Risks](#8-major-known-risks)
+9. [Constraints/Limits](#9-constraints-limits)
+10. [Budget Estimate](#10-budget-estimate)
+11. [RACI](#11-raci)
+12. [Sign-off](#12-sign-off)
+13. [Functional and Non-Functional Requirements for Baby Goods Exchange](#functional-and-non-functional-requirements-for-baby-goods-exchange)
+    - [Functional Requirements](#functional-requirements-what-the-system-must-do)
+    - [Non-Functional Requirements](#non-functional-requirements-how-the-system-should-perform)
+14. [User Stories](#user-stories)
+15. [Use Case Document](#use-case-document)
+    - [Use Case 1: Listing a Baby Product for Sale](#use-case-1-listing-a-baby-product-for-sale)
+    - [Use Case 2: Purchasing a Baby Product](#use-case-2-purchasing-a-baby-product)
+    - [Use Case Diagrams](#use-case-diagrams)
+16. [Test Cases](#test-cases)
+17. [Prototype Website](#prototype-website)
+
+    
 ## 1. General Project Information
 
 **Project Name:**  
