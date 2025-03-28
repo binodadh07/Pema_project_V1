@@ -244,13 +244,13 @@ This initiative promotes sustainability by reducing waste, supporting families f
 #### Activity Diagram
 ---
 
-![USe Case Diagram](ActivityDiagram_v2.png)
+![Activity_dia](ActivityDiagram_v2.png)
 
 
 #### Sequence Diagram
 ---
 
-![USe Case Diagram](Seq.png)
+![Sequence](Seq.png)
 
 
 ---
