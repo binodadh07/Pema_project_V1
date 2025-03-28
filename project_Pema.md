@@ -269,3 +269,15 @@ Complete use case diagram and pick 4 different use cases from the use case diagr
 | TC_003           | Buyer enters shipping details and selects a payment method. | 1. Enter shipping address details.<br>2. Choose a payment method.<br>3. Click "Proceed."                                                                   | System verifies the entered information.                                                                     | -                              | -          | High         |
 | TC_004           | Buyer confirms the purchase and makes payment. | 1. Click "Confirm Purchase."<br>2. Enter valid payment details.<br>3. Click "Pay."                                                                          | Payment is processed via a secure payment gateway.                                                            | -                              | -          | Critical     |
 | TC_005           | System confirms payment success and updates order status. | 1. Complete a successful payment.<br>2. Check the order status.                                                                                             | System updates order status to "Processing" and notifies the seller.                                          | -                              | -          | High         |
+---
+-------
+-------
+
+
+
+# Prototype Website
+
+
+
+![alt text](Pema_Projectv2.gif)
+
