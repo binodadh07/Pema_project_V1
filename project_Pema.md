@@ -279,5 +279,5 @@ Complete use case diagram and pick 4 different use cases from the use case diagr
 
 
 
-![alt text](Pema_Projectv2.gif)
+![Prototype](prototype.png)  ![alt text](Pema_Projectv2.gif)
 
