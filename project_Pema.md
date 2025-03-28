@@ -244,13 +244,14 @@ This initiative promotes sustainability by reducing waste, supporting families f
 #### Activity Diagram
 ---
 
-<img src="ActivityDiagram_v2.png" alt="Activity Diagram" style="width: auto; height: 100vh; display: block; margin: auto;">
+![USe Case Diagram](ActivityDiagram_v2.png)
 
 
 #### Sequence Diagram
 ---
 
-<img src="Seq.png" alt="Activity Diagram" style="width: auto; height: 100vh; display: block; margin: auto;">
+![USe Case Diagram](Seq.png)
+
 
 ---
 
